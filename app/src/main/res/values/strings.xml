@@ -2,4 +2,9 @@
     <string name="app_name">Gudetama</string>
     <string name="gudetama">Hint: Gudetama, the lazy egg</string>
     <string name="aboutMe">About me</string>
+    <string name="gudetama_title">Gudetama, the lazy egg</string>
+    <string name="description">I am a melancholy egg yolk that can not sleep without a bacon
+        blanket. I have conquered Japan with my cuteness. There…can I go home now?</string>
+    <string name="not_yet">Not yet</string>
+    <string name="disappointed">Aw, don\'t be like that!</string>
 </resources>
