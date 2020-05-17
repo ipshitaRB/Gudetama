@@ -13,7 +13,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="@dimen/small_margin"
         android:contentDescription="@string/gudetama_title"
-        tools:srcCompat="@drawable/gudetama" />
+        android:src="@drawable/gudetama" />
 
     <TextView
         android:id="@+id/nameTextView"
