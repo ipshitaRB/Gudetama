@@ -2,4 +2,5 @@
 <resources>
     <dimen name="small_margin">8dp</dimen>
     <dimen name="label_size">24sp</dimen>
+    <dimen name="description_size">24sp</dimen>
 </resources>
