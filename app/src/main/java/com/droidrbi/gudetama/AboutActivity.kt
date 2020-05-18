@@ -21,11 +21,11 @@ class AboutActivity : AppCompatActivity() {
         nameTextView.text = name
 
         notYetButton = findViewById(R.id.notYetButton)
-        notYetButton.setOnClickListener { sigh() }
+        notYetButton.setOnClickListener { sigh(name) }
 
     }
 
-    private fun sigh() {
-        Toast.makeText(this, getString(R.string.disappointed),Toast.LENGTH_SHORT).show()
+    private fun sigh(name: String?) {
+        Toast.makeText(this, getString(R.string.disappointed, name),Toast.LENGTH_SHORT).show()
     }
 }
